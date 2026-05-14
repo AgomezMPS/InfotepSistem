@@ -1,5 +1,5 @@
 # Mantenimiento de productos — solución C# (Onion + SQL Server)
-
+# hola
 Alineado al curso en vídeo del repositorio padre: sistema de **ventas / mantenimiento** con **Categoría**, **Marca** y **Producto**.
 
 ## Estructura (cebolla / Onion)
